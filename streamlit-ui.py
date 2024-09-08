@@ -5,7 +5,7 @@ import traceback
 from rfp_analyzer import analyze_rfp, generate_pdf_report
 
 # Set up environment variables
-os.environ["ANTHROPIC_API_KEY"] = "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"
+os.environ["ANTHROPIC_API_KEY"] = "api key"
 
 st.title("RFP Analyzer")
 
