@@ -1,0 +1,8 @@
+streamlit==1.30.0
+numpy==1.26.4
+packaging==23.2
+llama-index-core
+langchain==0.2.16
+langchain-community==0.2.16
+llama-index-llms-anthropic
+sentence-transformers==2.5.1
