@@ -9,7 +9,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from pdf_generator import generate_pdf
 from chart_generator import generate_chart
 
-os.environ["ANTHROPIC_API_KEY"] = " api key"
+
 
 def process_document(file_path):
     # Configure global settings
